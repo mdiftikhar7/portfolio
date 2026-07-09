@@ -23,4 +23,4 @@ Open `index.html` in your browser.
 
 Your site will be available at:
 
-https://yourusername.github.io
+https://mdiftikhar7.github.io
